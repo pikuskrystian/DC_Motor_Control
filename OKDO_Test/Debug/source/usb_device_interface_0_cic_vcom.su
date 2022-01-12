@@ -1,0 +1,7 @@
+usb_device_interface_0_cic_vcom.c:185:6:USB_read	24	static
+usb_device_interface_0_cic_vcom.c:206:6:USB_write	32	static
+usb_device_interface_0_cic_vcom.c:228:14:USB_DeviceInterface0CicVcomCallback	48	static
+usb_device_interface_0_cic_vcom.c:473:14:USB_DeviceInterface0CicVcomSetConfiguration	16	static
+usb_device_interface_0_cic_vcom.c:489:14:USB_DeviceInterface0CicVcomSetInterface	16	static
+usb_device_interface_0_cic_vcom.c:501:14:USB_DeviceInterface1DicVcomSetInterface	16	static
+usb_device_interface_0_cic_vcom.c:512:14:USB_DeviceInterface0CicVcomInit	16	static

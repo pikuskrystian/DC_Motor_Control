@@ -1,0 +1,14 @@
+core_cm33.h:2127:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:747:28:EnableIRQ	24	static
+fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+fsl_gpio.h:172:24:GPIO_PinRead	24	static
+OKDO_Test.c:28:6:Motor_SetPower	16	static
+OKDO_Test.c:50:6:hardStop	8	static
+OKDO_Test.c:55:6:enc_callback	16	static
+OKDO_Test.c:67:6:ls1_callback	16	static
+OKDO_Test.c:82:6:ls2_callback	16	static
+OKDO_Test.c:97:6:ct2_callback	16	static
+OKDO_Test.c:112:6:setUp	64	static
+OKDO_Test.c:168:6:setPosition	16	static
+OKDO_Test.c:197:6:interprete	24	static
+OKDO_Test.c:223:5:main	72	static

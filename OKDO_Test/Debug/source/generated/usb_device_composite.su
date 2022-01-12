@@ -1,0 +1,13 @@
+core_cm33.h:2127:22:__NVIC_EnableIRQ	16	static
+core_cm33.h:2324:22:__NVIC_SetPriority	16	static
+fsl_clock.h:722:20:CLOCK_EnableClock	24	static
+fsl_clock.h:732:20:CLOCK_DisableClock	24	static
+fsl_common.h:747:28:EnableIRQ	24	static
+fsl_power.h:385:20:POWER_DisablePD	16	static
+usb_device_composite.c:389:6:USB1_IRQHandler	8	static
+usb_device_composite.c:403:13:USB_DeviceClockInit	32	static
+usb_device_composite.c:518:6:USB_DeviceIsrEnable	16	static
+usb_device_composite.c:578:21:USB_DeviceCallback	40	static
+usb_device_composite.c:813:14:USB_UpdateInterfaceSetting	24	static
+usb_device_composite.c:845:14:USB_DeviceApplicationInit	16	static
+usb_device_composite.c:1001:6:USB_DeviceTasks	8	static

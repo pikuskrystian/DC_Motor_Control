@@ -1,0 +1,9 @@
+core_cm33.h:2324:22:__NVIC_SetPriority	16	static
+fsl_ctimer.h:379:20:CTIMER_EnableInterrupts	16	static
+fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+peripherals.c:124:13:FLEXCOMM8_init	8	static
+peripherals.c:179:13:PINT_init	8	static
+peripherals.c:250:13:CTIMER2_init	16	static
+peripherals.c:347:13:USBHSD_init	8	static
+peripherals.c:354:6:BOARD_InitPeripherals	8	static
+peripherals.c:366:6:BOARD_InitBootPeripherals	8	static
