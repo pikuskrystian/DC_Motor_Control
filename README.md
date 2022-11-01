@@ -1,6 +1,6 @@
 ## Description of the project
 
-As part of the project, we have designed and implemented complete linear
+As part of the project, I have designed and implemented complete linear
 guide controller, with the following functionalities:
 <br>
 
